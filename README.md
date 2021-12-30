@@ -54,6 +54,7 @@ Internet bots can also be referred to as spiders, crawlers, or web bots. Bots ma
 - [Books](#books)
 - [Communities/chats](#communitieschats)
 - [Video Tutorials](#video-tutorials)
+- [Examples of Bots](#examples-of-bots)
 
 ## Contents
 
@@ -577,6 +578,21 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Build Incredible Chatbots](https://www.udemy.com/build-incredible-chatbots/?siteID=Fh5UMknfYAU-gy71h1TJa1rrvII1WfvRiA&LSNPUBID=Fh5UMknfYAU) - The most comprehensive and complete bot developer course. Build & deploy chat bots for fun, business, and enterprise.
 * [Creating Bots in the Microsoft Bot Framework Using C#](https://mva.microsoft.com/en-us/training-courses/creating-bots-in-the-microsoft-bot-framework-using-c-17590?l=02bOQBlqD_2600115881) - Get started creating your first bot with a built-in template. Watch helpful demos to learn about the many ways of communicating with the user, beyond just text, that Microsoft Bot Framework includes. 
 
+
+### Examples of bots
+The range and variety of bots mean they are used across a wide range of areas, such as customer service, business, search functionality, and entertainment.
+
+> Examples of well-known services which use bots include:
+
+- Instant messenger apps such as Facebook Messenger, WhatsApp, and Slack.
+- Chatbots such as Google Assistant and Siri.
+- The World Health Organization built a bot on WhatsApp to share public information related to the coronavirus pandemic.
+- National Geographic built a conversational app which supposedly conversed like Albert Einstein would have, to promote their show Genius.
+- News apps such as the Wall Street Journal, to show news headlines.
+- Spotify, which allows users to search for and share tracks via Facebook Messenger.
+- Lyft, Uber’s biggest competitor, allows customers to make requests via Slack, Messenger, and Alexa.
+- Mastercard allows customers to check their account transactions using the Facebook Messenger bot.
+- Lidl created a bot to help make wine recommendations to customers.
 
 
 
