@@ -6,6 +6,11 @@
 > A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about bots.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
+## What are Bots?
+*Bots typically imitate or replace human user behavior.* Because they are automated, they operate much faster than human users. They carry out useful functions, such as customer service or indexing search engines, but they can also come in the form of malware – used to gain total control over a computer.
+
+Internet bots can also be referred to as spiders, crawlers, or web bots.
+
 ## Table of Contents
 - [Voice bots](#voice-bots)
 - [Newsletters](#newsletters)
