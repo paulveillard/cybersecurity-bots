@@ -1,6 +1,6 @@
 
 
-# Bots
+# Bots, Botnets, and Zombies
 
 ###### The World of bots in Cybersecurity :
 > A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about bots.
