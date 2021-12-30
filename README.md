@@ -584,7 +584,7 @@ The range and variety of bots mean they are used across a wide range of areas, s
 
 > Examples of well-known services which use bots include:
 
-- Instant messenger apps such as Facebook Messenger, WhatsApp, and Slack.
+- [Instant messenger apps](https://developers.facebook.com/docs/messenger-platform/) - such as Facebook Messenger, WhatsApp, and Slack.
 - Chatbots such as Google Assistant and Siri.
 - The World Health Organization built a bot on WhatsApp to share public information related to the coronavirus pandemic.
 - National Geographic built a conversational app which supposedly conversed like Albert Einstein would have, to promote their show Genius.
