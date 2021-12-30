@@ -9,8 +9,12 @@
 ## What are Bots?
 *Bots typically imitate or replace human user behavior.* Because they are automated, they operate much faster than human users. They carry out useful functions, such as customer service or indexing search engines, but they can also come in the form of malware – used to gain total control over a computer.
 
+![chatbots](https://github.com/paulveillard/cybersecurity-bots/blob/main/img/chatbot-illustration-1.png)
+
 ## What do they use for?
 Internet bots can also be referred to as spiders, crawlers, or web bots. Bots make up nearly 38% of all internet traffic, with bad bots generating one in five website requests. Bad bots perform malicious tasks that allow an attacker to remotely take control over an affected computer. Once infected, these machines may also be referred to as zombies. **These days, bad bots are big business, with cybercriminals around the world using them to fraudulently access accounts, attack networks, and steal data. ** 
+
+
 
 ## Table of Contents
 - [Voice bots](#voice-bots)
