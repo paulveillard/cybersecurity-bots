@@ -485,6 +485,8 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Unibot](http://unibot.ai/) - We create personalized bots for businesses
 * [BotCopy](https://www.botcopy.com/) - A bot writing and design agency based in sunny LA.
 
+**[`^        back to top        ^`](#)**
+
 ### Influencers/People
 * **Dag Kittlaus** - Co-Founder/CEO Siri & Viv Labs. [Twitter](https://twitter.com/Dagk) [Medium](https://medium.com/@Dagk)
 * **Oren Jacob** - Founder and CEO, PullString. [Twitter](https://twitter.com/orenjacob) [Medium](https://medium.com/@orenjacob) [Facebook](https://facebook.com/748835990)
@@ -545,6 +547,8 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Alexa Fund](https://developer.amazon.com/alexa-fund) - The Alexa Fund provides up to $100 million in venture capital funding to fuel voice technology innovation. We believe experiences designed around the human voice will fundamentally improve the way people use technology
 * [TheVentury's ELEVATE Accelerator](https://elevate.theventury.com) - Europe's first bot accelerator. Work with the brightest minds in the business to take your bot from prototype to product-market-fit in 6 months
 
+**[`^        back to top        ^`](#)**
+
 ### Books
 * [Create Convincing Computer Conversations](https://www.pullstring.com/conversational-writing) - To help you write your own computer conversations, we collected some of the lessons we learned writing "Humani: Jessie's Story" and other projects and put it into this ebook
 * [Voice UI Design for Alexa Skill Developers](https://www.pullstring.com/user-interface-design-for-alexa-skill-authors) - This eBook was written based on our years of expertise in authoring human-fidelity computer conversation, and our experience developing The Grand Tour skill for Alexa
@@ -595,7 +599,7 @@ The range and variety of bots mean they are used across a wide range of areas, s
 - Lidl created a bot to help make wine recommendations to customers.
 
 
-
+**[`^        back to top        ^`](#)**
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
